@@ -50,5 +50,23 @@ Which is the most preferred payment option with maximum and minimum sales?
 Does Gender have a positive correlation to purchases?
 
 
+## Final Observations on the dataset 
+
+The age group of 25 to 45 makes the most purchases and provides the most to net sales.
+
+December saw the highest sales ever, with net sales of 1.79 crore, while February saw the lowest, with net sales of 1 crore.
+
+With net sales of 4.74 crore, electronics had the most purchases, followed by clothing with 3.12 crore. With net sales of 44.7 lakhs, toys and games were the least purchased item.
+
+The largest contributor to total sales is Mumbai, with 3.2 crore in net sales, followed by Delhi (3.1 crore) and Bangalore (2.36 crore). 
+
+With net sales of 6.36 crore, credit cards are the most popular payment method. Debit cards and net banking come in second and third, respectively. In contrast, Google Pay is the least popular choice, accounting for 75.05 lakhs of net purchases total.
+
+A balanced purchase distribution was observed between the gender groups.
+
+25-45 age group observed the highest discounts availed by these users. 18-25 followed with a large margin. Both 60 above and under 18 category of customers were amongst the least to bank on discounts
+
+
+
 
 
