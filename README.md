@@ -9,9 +9,9 @@ This dataset isn't authentic. Python's Faker module was used to create this data
 This dataset was created with the intention of giving students like me a resource to investigate, evaluate, and use different data analysis methods in an environment that closely resembles real-world data.
 
 ## About the Dataset:
-CID (Customer ID): A unique identifier for each customer.
+1.CID (Customer ID): A unique identifier for each customer.
 
-TID (Transaction ID): A unique identifier for each transaction.
+2.TID (Transaction ID): A unique identifier for each transaction.
 
-Gender: The gender of the customer, categorized as Male or Female.
+3.Gender: The gender of the customer, categorized as Male or Female.
 
