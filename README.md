@@ -35,3 +35,20 @@ This dataset was created with the intention of giving students like me a resourc
 
 13. Location: The city where the purchase took place.
 
+## Business Problems to Address: 
+
+1. Which age group contributes to the most purchases?
+   
+2.Which month of the year are the sales highest and lowest?
+
+3.Which product category performs the most?
+
+4.Top 10 states contributing to overall sales with their maximum and minimum sales.
+
+5. Which is the most preferred payment option with maximum and minimum sales?
+   
+6.Does Gender have a positive correlation to purchases?
+
+
+
+
